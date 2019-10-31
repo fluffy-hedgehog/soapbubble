@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: SoapBubble
+theme: hermit
+params:
+  dateform: "Mon, Jan 2, 2006"
+  dateformnumtime: "01/02/06 15:04"
+  dateformshort: ""
+  homeSubtitle: "In recognition of the soapbox"
+menu:
+  main:
+    - name: "Bubbles"
+      url: "posts/"
+      weight: 10
