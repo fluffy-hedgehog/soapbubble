@@ -2,6 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 title: SoapBubble
 theme: hermit
+publishDir: docs
 params:
   dateform: "Mon, Jan 2, 2006"
   dateformnumtime: "01/02/06 15:04"
