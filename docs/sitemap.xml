@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://fluffy-hedgehog.github.io/soapbubble/posts/</loc>
     <lastmod>2019-10-29T19:56:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://fluffy-hedgehog.github.io/soapbubble/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://fluffy-hedgehog.github.io/soapbubble/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://fluffy-hedgehog.github.io/soapbubble/tags/</loc>
   </url>
   
 </urlset>
