@@ -6,9 +6,20 @@
     <description>Recent content on SoapBubble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 19:56:30 -0400</lastBuildDate>
     
 	<atom:link href="https://fluffy-hedgehog.github.io/soapbubble/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nothing</title>
+      <link>https://fluffy-hedgehog.github.io/soapbubble/posts/something_interesting/</link>
+      <pubDate>Tue, 29 Oct 2019 19:56:30 -0400</pubDate>
+      
+      <guid>https://fluffy-hedgehog.github.io/soapbubble/posts/something_interesting/</guid>
+      <description>Recently, a friend and I were discussing blindness. We talked about it for a while, and concluded that we can&amp;rsquo;t understand it.
+That explanation probably seemed totally insufficient, so I just need you to close your eyes for a moment. What do you see? Now, if you said nothing, you aren&amp;rsquo;t wrong (unless, of course, you are truly blind&amp;hellip; but that doesn&amp;rsquo;t explain how you&amp;rsquo;re reading this. Wait, you&amp;rsquo;re probably listening&amp;hellip; Nevermind.</description>
+    </item>
     
   </channel>
 </rss>
